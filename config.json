@@ -1,0 +1,1 @@
+{"image_size": 224, "embedding_dim": 256, "hidden_dim": 512, "num_layers": 1, "batch_size": 32, "lr": 0.001, "epochs": 20, "max_len": 30, "min_word_freq": 1}
